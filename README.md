@@ -1,10 +1,10 @@
 ![MasterHead](https://i.ibb.co/JqySGYw/2.png)
 <h1 align="center">Hi 👋, I'm Mohammed Hasan</h1>
-<h3 align="center">Front-End Web Application Developer</h3>
+<h3 align="center"> Web Application Developer</h3>
 
 - 🌱 I’m currently learning **Redux, Next js**
 
-- 💬 Ask me about **Front-end developement**
+- 💬 Ask me about **Web developement**
 
 - 📫 How to reach me **hasan.mohammed4040@gmail.com**
 
